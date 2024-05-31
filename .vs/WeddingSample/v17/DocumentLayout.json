@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\webapi\\weddingsample\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|solutionrelative:models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Models\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\webapi\\weddingsample\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|solutionrelative:controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\webapi\\weddingsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\webapi\\weddingsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/C__JASONH_DB_WEDDING.MDF/True/SqlTable/dbo.Application.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|c:\\jasonh\\visaulstudioprogram\\practice\\webapi\\weddingsample\\filters\\checkrefererfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D6BBB8-C4B6-4571-A9C4-6932AF5C7F04}|WeddingSample.csproj|solutionrelative:filters\\checkrefererfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Models\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationContext.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Models\\ApplicationContext.cs",
+              "RelativeToolTip": "Models\\ApplicationContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAjwCkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:07:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Application [\u8CC7\u6599]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/C__JASONH_DB_WEDDING.MDF/True/SqlTable/dbo.Application.sql",
+              "ToolTip": "dbo.Application [\u8CC7\u6599]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-28T08:04:14.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckRefererFilter.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Filters\\CheckRefererFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CheckRefererFilter.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Filters\\CheckRefererFilter.cs",
+              "RelativeToolTip": "Filters\\CheckRefererFilter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:40:23.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA4wBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:18:32.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Models\\Application.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Models\\Application.cs",
+              "RelativeToolTip": "Models\\Application.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:00:45.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T07:34:49.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\JasonH\\VisaulStudioProgram\\practice\\WebAPI\\WeddingSample\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:22:10.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
